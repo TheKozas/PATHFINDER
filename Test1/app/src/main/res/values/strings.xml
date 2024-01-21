@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">GoogleApiTest</string>
-    <string name="my_map_api_key">AIzaSyAGz8xrTl0UvTLKDtjCRt7J4VnSnm2V45o</string>
-    <string name="none">None</string>
-    <string name="normal">Normal</string>
-    <string name="satellite">Satellite</string>
-    <string name="hybrid">Hybrid</string>
-    <string name="terrain">Terrain</string>
-</resources>
