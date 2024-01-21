@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Test2</string>
+    <string name="my_map_api_key">AIzaSyAGz8xrTl0UvTLKDtjCRt7J4VnSnm2V45o</string>
+    <string name="get_direction">Get Direction</string>
+
+</resources>
